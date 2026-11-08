@@ -1,0 +1,35 @@
+# Universal Dependencies
+altgraph
+contourpy
+cycler
+fonttools
+iniconfig
+kiwisolver
+macholib
+matplotlib
+numpy
+packaging
+pandas
+pillow
+pluggy
+pyinstaller
+pyinstaller-hooks-contrib
+pyparsing
+PyQt5
+PyQt5-Qt5
+PyQt5_sip
+pyqtgraph
+pytest
+pytest-qt
+python-dateutil
+pytz
+scipy
+seaborn
+setuptools
+six
+tzdata
+requests
+
+# Windows-Specific Dependencies
+winshell; sys_platform == "win32"
+pywin32; sys_platform == "win32"

@@ -1,0 +1,10 @@
+oncPat2HR, 10
+oncPat1HR, 9
+oncPat3HR, 9
+oncPat4HR, 8
+oncPat5HR, 8
+oncPat6HR, 8
+oncPat7HR, 8
+oncPat8HR, 8
+dermPat1dermItem, 2
+surPat1HR, 2

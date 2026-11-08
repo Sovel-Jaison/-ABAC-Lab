@@ -1,0 +1,4 @@
+rule(position [ {nurse}; type [ {HR}; {addItem} ward=ward)
+rule(; type [ {HR}; {addItem}; teams ] treatingTeam)
+rule(; type [ {HR}; {addNote}; uid=patient)
+rule(; type [ {HR}; {addNote} agentFor ] patient)

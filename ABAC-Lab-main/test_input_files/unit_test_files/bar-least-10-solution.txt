@@ -1,0 +1,10 @@
+oncPat6HR, 8
+oncPat7HR, 8
+oncPat8HR, 8
+dermPat1dermItem, 2
+surPat1HR, 2
+surPat2HR, 2
+carPat1carItem, 1
+carPat2carItem, 1
+pedPat1pedItem, 0
+pedPat2pedItem, 0

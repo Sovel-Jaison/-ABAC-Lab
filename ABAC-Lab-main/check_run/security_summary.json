@@ -1,0 +1,52 @@
+{
+  "requests": 480000,
+  "same_tenant_requests": 72512,
+  "cross_tenant_requests": 407488,
+  "E1": {
+    "permits": 28351,
+    "same": 4688,
+    "cross": 23663,
+    "cross_permit_rate_pct": 5.807,
+    "cross_share_of_permits_pct": 83.4644
+  },
+  "E2": {
+    "permits": 4688,
+    "same": 4688,
+    "cross": 0
+  },
+  "eq4_violations": 0,
+  "E3_all": {
+    "rules_edited": 25,
+    "permits": 4688,
+    "decision_mismatches_vs_E2": 0
+  },
+  "E3_affected": {
+    "rules_edited": 13,
+    "edited_rules": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      18,
+      19,
+      20,
+      21,
+      24
+    ],
+    "permits": 4688,
+    "decision_mismatches_vs_E2": 0
+  },
+  "unique_cross_tenant_permits_first_match_sum": 23663,
+  "all_match_sum": 24397,
+  "tenant_attribute_sanity": {
+    "users_checked": 400,
+    "users_without_single_tenant": 0,
+    "resources_checked": 300,
+    "resources_without_single_tenant": 0
+  },
+  "users_mode": "employees"
+}

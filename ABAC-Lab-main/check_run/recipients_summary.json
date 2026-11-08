@@ -1,0 +1,8 @@
+{
+  "cross_tenant_permits_in_E1": 23663,
+  "no_recipients_attribute": 0,
+  "requester_is_recipient": 0,
+  "requester_tenant_is_recipient_tenant": 0,
+  "only_unknown_recipients": 0,
+  "recipients_in_other_tenants_only": 23663
+}
